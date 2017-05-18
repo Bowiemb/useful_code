@@ -1,6 +1,6 @@
 # ====================================================================
 # PDF Scrapper
-#
+# Found here: http://davidhuynh.net/spaces/nicar2011/tutorial.pdf
 # ====================================================================
 
 import scraperwiki
